@@ -1,150 +1,136 @@
 {
   "basics": {
-      "name": "Simon Marchant",
-      "label": "",
-      "picture": "",
-      "email": "",
-      "phone": "",
-      "website": "",
-      "summary": "",
-      "location": {
-          "address": "Linacre College",
-          "postalCode": "",
-          "city": "Oxford",
-          "countryCode": "UK",
-          "region": ""
-      },
-      "profiles": [
-          {
-              "network": "",
-              "username": "",
-              "url": ""
-          }
-      ]
+    "name": "Simon Marchant",
+    "label": "",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "Linacre College",
+      "postalCode": "",
+      "city": "Oxford",
+      "countryCode": "UK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
   },
   "work": [
-        {
-          "company": "University of Oxford",
-          "location": "",
-          "description": "",
-          "position": "Postdoctoral Research Associate",
-          "website": "",
-          "startDate": "2024",
-          "endDate": "",
-          "summary": "",
-          "highlights": [
-              ""
-          ]
-      },
-      {
-          "company": "National Health Service",
-          "location": "",
-          "description": "",
-          "position": "Clinical Scientist",
-          "website": "",
-          "startDate": "2017",
-          "endDate": "2019",
-          "summary": "",
-          "highlights": [
-              ""
-          ]
-      },
-      {
-          "company": "National Health Service",
-          "location": "",
-          "description": "",
-          "position": "Trainee Clinical Scientist",
-          "website": "",
-          "startDate": "2014",
-          "endDate": "2017",
-          "summary": "",
-          "highlights": [
-              ""
-          ]
-      }
+    {
+      "company": "University of Oxford",
+      "location": "",
+      "description": "",
+      "position": "Postdoctoral Research Associate",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "company": "National Health Service",
+      "location": "",
+      "description": "",
+      "position": "Clinical Scientist",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "company": "National Health Service",
+      "location": "",
+      "description": "",
+      "position": "Trainee Clinical Scientist",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [""]
+    }
   ],
   "teaching": [
-      {
-          "organization": "",
-          "position": "",
-          "website": "",
-          "startDate": "",
-          "endDate": "",
-          "summary": "",
-          "highlights": [
-              ""
-          ]
-      }
+    {
+      "organization": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    }
   ],
   "education": [
-      {
-          "institution": "University of Oxford",
-          "area": "Paediatric Neuroimaging",
-          "studyType": "DPhil",
-          "startDate": "2019",
-          "endDate": "2024",
-          "gpa": "",
-          "courses": [
-              ""
-          ]
-      },
-      {
-          "institution": "King's College London",
-          "area": "Clinical Science (Clinical Engineering)",
-          "studyType": "MSc",
-          "startDate": "2014",
-          "endDate": "2027",
-          "gpa": "",
-          "courses": [
-              ""
-          ]
-      },
-      {
-          "institution": "University of Sheffield",
-          "area": "Biomedical Engineering",
-          "studyType": "MEng",
-          "startDate": "2010",
-          "endDate": "2014",
-          "gpa": "",
-          "courses": [
-              ""
-          ]
-      }
+    {
+      "institution": "University of Oxford",
+      "area": "Paediatric Neuroimaging",
+      "studyType": "DPhil",
+      "startDate": "2019",
+      "endDate": "2024",
+      "gpa": "",
+      "courses": [""]
+    },
+    {
+      "institution": "King's College London",
+      "area": "Clinical Science (Clinical Engineering)",
+      "studyType": "MSc",
+      "startDate": "2014",
+      "endDate": "2027",
+      "gpa": "",
+      "courses": [""]
+    },
+    {
+      "institution": "University of Sheffield",
+      "area": "Biomedical Engineering",
+      "studyType": "MEng",
+      "startDate": "2010",
+      "endDate": "2014",
+      "gpa": "",
+      "courses": [""]
+    }
   ],
   "awards": [
-        {
-          "title": "Postdoctoral Internship Award",
-          "date": "2023",
-          "awarder": "National Institute of Health Research",
-          "summary": ""
-      },  
     {
-          "title": "Postgraduate Research Award",
-          "date": "2023",
-          "awarder": "Institute of Engineering & Technology",
-          "summary": ""
-      },  
+      "title": "Postdoctoral Internship Award",
+      "date": "2023",
+      "awarder": "National Institute of Health Research",
+      "summary": ""
+    },
     {
-          "title": "Turing Community Award",
-          "date": "2022",
-          "awarder": "The Alan Turing Institute",
-          "summary": ""
-      }
+      "title": "Postgraduate Research Award",
+      "date": "2023",
+      "awarder": "Institute of Engineering & Technology",
+      "summary": ""
+    },
+    {
+      "title": "Turing Community Award",
+      "date": "2022",
+      "awarder": "The Alan Turing Institute",
+      "summary": ""
+    }
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Native"
-  },
+    },
     {
-          "language": "Spanish",
-          "fluency": "CEF B2"
-      }
+      "language": "Spanish",
+      "fluency": "CEF B2"
+    }
   ],
   "projects": [],
   "meta": {
-      "canonical": "",
-      "version": "",
-      "lastModified": ""
+    "canonical": "",
+    "version": "",
+    "lastModified": ""
   }
 }
