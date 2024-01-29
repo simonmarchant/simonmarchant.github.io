@@ -19,9 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am scientist.
-My greatest achievements
-
-1.
-2.
-3.
+As both a chartered engineer and a registered clinician, I apply scientific and engineering principles to solve real clinical challenges.

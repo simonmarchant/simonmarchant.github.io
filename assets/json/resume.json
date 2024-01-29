@@ -5,7 +5,7 @@
     "picture": "",
     "email": "",
     "phone": "",
-    "website": "",
+    "website": "simonmarchant.github.io",
     "summary": "",
     "location": {
       "address": "Linacre College",
@@ -24,37 +24,28 @@
   },
   "work": [
     {
-      "company": "University of Oxford",
-      "location": "",
-      "description": "",
+      "name": "Paediatric Neuroimaging",
       "position": "Postdoctoral Research Associate",
-      "website": "",
+      "url": "",
       "startDate": "2024",
       "endDate": "",
-      "summary": "",
-      "highlights": [""]
+      "summary": "University of Oxford"
     },
     {
-      "company": "National Health Service",
-      "location": "",
-      "description": "",
+      "name": "Orthotic Research and Locomotor Assessment Unit",
       "position": "Clinical Scientist",
-      "website": "",
+      "url": "",
       "startDate": "2017",
       "endDate": "2019",
-      "summary": "",
-      "highlights": [""]
+      "summary": "National Health Service"
     },
     {
-      "company": "National Health Service",
-      "location": "",
-      "description": "",
+      "name": "Leeds Teaching Hospitals",
       "position": "Trainee Clinical Scientist",
-      "website": "",
+      "url": "",
       "startDate": "2014",
       "endDate": "2017",
-      "summary": "",
-      "highlights": [""]
+      "summary": "National Health Service"
     }
   ],
   "teaching": [
@@ -75,8 +66,7 @@
       "studyType": "DPhil",
       "startDate": "2019",
       "endDate": "2024",
-      "gpa": "",
-      "courses": [""]
+      "gpa": ""
     },
     {
       "institution": "King's College London",
@@ -84,8 +74,7 @@
       "studyType": "MSc",
       "startDate": "2014",
       "endDate": "2027",
-      "gpa": "",
-      "courses": [""]
+      "gpa": ""
     },
     {
       "institution": "University of Sheffield",
@@ -93,8 +82,7 @@
       "studyType": "MEng",
       "startDate": "2010",
       "endDate": "2014",
-      "gpa": "",
-      "courses": [""]
+      "gpa": ""
     }
   ],
   "awards": [
@@ -124,7 +112,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "CEF B2"
+      "fluency": "CEFR B2"
     }
   ],
   "projects": [],

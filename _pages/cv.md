@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: Academic_CV.pdf
+cv_pdf: S-Marchant-CV.pdf
 description:
 toc:
   sidebar: left
